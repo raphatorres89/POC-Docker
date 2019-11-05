@@ -3,11 +3,11 @@
 Para executar o programa, é preciso ter o Docker e o Gradle instalado.
 
 No diretório do projeto, execute:
-`./gradle build`
+`./gradlew build`
 para que o maven crie o projeto com suas dependências
 
 depois
-`./gradle build docker`
+`./gradlew build docker`
 para criar a imagem do docker
 
 utilizando
